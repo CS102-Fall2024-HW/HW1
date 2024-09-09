@@ -1,6 +1,6 @@
 # CS102 - HW#1
 
-Due 09/14/24 at 11:59PM.  
+Due 09/21/24 at 11:59PM.  
 Late submissions are subject to a 20% late penalty.
 
 ## Reading
